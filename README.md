@@ -1,6 +1,6 @@
 # Messenger-GUI-App
 <br>
-Author : Harshal Langote
+Author : Harshal.
 <br>
 WhatsApp Message Sender Application : <br>
     User Send a message on WhatsApp, save number &amp; without saving number<br>
