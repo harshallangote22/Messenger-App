@@ -1,7 +1,7 @@
 from tkinter import *
 import webbrowser
 from PIL import Image,ImageTk  # image libraries
-from tkinter import messagebox
+# from tkinter import messagebox
 root=Tk()
 root.title('Whatsapp Message Sender Application')
 root.iconbitmap('C:/Users/harsh/Git_Files_Projects/MessangerApp/whatsapp_icon.ico')
